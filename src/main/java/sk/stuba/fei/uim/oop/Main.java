@@ -1,7 +1,9 @@
 package sk.stuba.fei.uim.oop;
 
-public class Main {
-    public static void main(String[] args) {
-
+public class Main
+{
+    public static void main(String[] args)
+    {
+        var frame = new MainFrame();
     }
 }
